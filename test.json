@@ -1,0 +1,235 @@
+{
+    "sideBarComp": {
+        "image": "https://media-exp2.licdn.com/dms/image/C4D03AQEx7O_w32lYYg/profile-displayphoto-shrink_200_200/0/1653243796102?e=1660176000&v=beta&t=Mnz2tNn3AqIRElE4rwAiGgIx4vqVYfPlqavyQ2w1Zj0",
+        "fullName": "Efe Eğrekçi",
+        "title": "Front-End Developer",
+        "dateOfBirth": "June 7, 1993",
+        "email": "efe.egrekci@outlook.com",
+        "freelance": "Available",
+        "address": "Üsküdar / İstanbul",
+        "cvLink": "http://efeegrekci.com/service/docs/efe-egrekci-cv.pdf",
+        "socialMediaLink": {
+            "facebook": "https://www.facebook.com/macropinna/",
+            "linkedin": "https://www.linkedin.com/in/efeegrekci/",
+            "twitter": "https://twitter.com/yapayzekat",
+            "instagram": "https://www.instagram.com/efe.egrekci/"
+        },
+        "language": [
+            {
+                "name": "Turkish",
+                "text": "Native",
+                "point": 100
+            },
+            {
+                "name": "English",
+                "text": "B1",
+                "point": 50
+            }
+        ],
+        "skills": [
+            {
+                "text": "html",
+                "point": 100
+            },
+            {
+                "text": "css",
+                "point": 100
+            },
+            {
+                "text": "javascript",
+                "point": 60
+            },
+            {
+                "text": "vue",
+                "point": 50
+            }
+        ],
+        "extraSkills": [
+            {
+                "line": [
+                    "Bootstrap",
+                    "Materialize"
+                ]
+            },
+            {
+                "line": [
+                    "Stylus",
+                    "Sass",
+                    "Less"
+                ]
+            },
+            {
+                "line": [
+                    "Gulp",
+                    "Webpack",
+                    "Grunt"
+                ]
+            },
+            {
+                "line": [
+                    "GIT Knowledge"
+                ]
+            }
+        ]
+    },
+    "bannerComp": [
+        {
+            "title": "I’m Efe Eğrekçi <span>Front-end</span> Developer",
+            "description": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Et, Volutpat Feugiat Placerat Lobortis. Natoque Rutrum Semper Sed Suspendisse Nunc Lectus.",
+            "buttonLink": "https://www.linkedin.com/in/efeegrekci/"
+        }
+    ],
+    "boxesComp": {
+        "title": "My Services",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+        "boxes": [
+            {
+                "image": "http://efeegrekci.com/service/images/coding-yellow.png",
+                "title": "Web Development",
+                "desc": "Blog, E-Commerce"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/illustration-yellow.png",
+                "title": "UI/UX design",
+                "desc": "Mobile app, website design"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/Microphone-yellow.png",
+                "title": "Sound Design",
+                "desc": "Voice Over, Beat Making"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/game-development-yellow.png",
+                "title": "Game Design",
+                "desc": "Character Design, Props & Objects"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/Photographer-yellow.png",
+                "title": "Photography",
+                "desc": "Portrait, Product Photography"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/Photographer-yellow.png",
+                "title": "Advertising",
+                "desc": "Blog, E-Commerce"
+            }
+        ]
+    },
+    "listComp": [
+        {
+            "title": "Education",
+            "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+            "lists": [
+                {
+                    "leftTitle": "Anadolu University",
+                    "rightTitle": "Management Information Systems",
+                    "leftDesc": "Student",
+                    "rightDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui.",
+                    "date": "Sep 2018 - June 2021"
+                },
+                {
+                    "leftTitle": "Kocaeli University",
+                    "rightTitle": "Computer Programming",
+                    "leftDesc": "Student",
+                    "rightDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui.",
+                    "date": "Sep 2013 - June 2015"
+                }
+            ]
+        },
+        {
+            "title": "Work History",
+            "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+            "lists": [
+                {
+                    "leftTitle": "Free Lancer",
+                    "rightTitle": "Front-End Developer",
+                    "leftDesc": "Worker",
+                    "rightDesc": "Labirent Fethiye",
+                    "date": "Mar 2022 - NOW"
+                },
+                {
+                    "leftTitle": "Dreams and Bytes",
+                    "rightTitle": "Front-End Developer",
+                    "leftDesc": "Worker",
+                    "rightDesc": "Mng Kargo, Osmanlı Menkul, Osmanlı Portföy, Garenta Moov, Delice Zeytinyağları, Axess, Koçtaş, Koçailem, Bilkom, Anadolu Efes, Enerjisa, Turk Telekom Güvenlik ve Tivibu Odeme",
+                    "date": "Jun 2019 - Mar 2022"
+                },
+                {
+                    "leftTitle": "High Tech Engineering",
+                    "rightTitle": "Information Technology",
+                    "leftDesc": "Worker",
+                    "rightDesc": " ",
+                    "date": "Jul 2017 - Apr 2019"
+                }
+            ]
+        }
+    ],
+    "imageBoxComp": {
+        "title": "Portfolio",
+        "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+        "images": [
+            {
+                "image": "http://efeegrekci.com/service/images/imageBox-1-Min.png",
+                "bigImage": "http://efeegrekci.com/service/images/imageBox-1.png"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/imageBox-2-Min.png",
+                "bigImage": "http://efeegrekci.com/service/images/imageBox-2.png"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/imageBox-3-Min.png",
+                "bigImage": "http://efeegrekci.com/service/images/imageBox-3.png"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/imageBox-4-Min.png",
+                "bigImage": "http://efeegrekci.com/service/images/imageBox-4.jpg"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/imageBox-5-Min.png",
+                "bigImage": "http://efeegrekci.com/service/images/imageBox-5.png"
+            },
+            {
+                "image": "http://efeegrekci.com/service/images/imageBox-6-Min.png",
+                "bigImage": "http://efeegrekci.com/service/images/imageBox-6.jpg"
+            }
+        ]
+    },
+    "mapComp": {
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48156.90647177795!2d28.99928025913061!3d41.029485766620816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac826d524c9f1%3A0xc14f7612337b7f38!2zw5xza8O8ZGFyL8Swc3RhbmJ1bA!5e0!3m2!1str!2str!4v1655383652551!5m2!1str!2str"
+    },
+    "menuComp": [
+        {
+            "menuLink": "/home",
+            "menuIcon": "http://efeegrekci.com/service/images/Home.svg",
+            "menuName": "Home"
+        },
+        {
+            "menuLink": "/services",
+            "menuIcon": "http://efeegrekci.com/service/images/Services.svg",
+            "menuName": "Services"
+        },
+        {
+            "menuLink": "/education",
+            "menuIcon": "http://efeegrekci.com/service/images/cv.svg",
+            "menuName": "Education"
+        },
+        {
+            "menuLink": "/works",
+            "menuIcon": "http://efeegrekci.com/service/images/Blog.svg",
+            "menuName": "Works"
+        },
+        {
+            "menuLink": "/portfolio",
+            "menuIcon": "http://efeegrekci.com/service/images/Portfolio.svg",
+            "menuName": "Portfolio"
+        },
+        {
+            "menuLink": "/contact",
+            "menuIcon": "http://efeegrekci.com/service/images/Contact.svg",
+            "menuName": "Contact"
+        }
+    ],
+    "footerComp": {
+        "text": "2022 Development by <a href='https://www.linkedin.com/in/efeegrekci/'>Efe Eğrekçi</a>"
+    }
+}
